@@ -16,3 +16,10 @@ A **Hybrid Convolutional Neural Network (CNN)** for classifying cervical cancer 
    ```bash
    git clone https://github.com/yourusername/cervical-cancer-classification-cnn.git
    cd cervical-cancer-classification-cnn
+
+## Conclusion
+- Our model shows competitive performance with faster convergence, making it suitable for practical clinical use.
+
+## Contact
+Author: Eluckya Thangavelu  
+Email: gullugtv@gmail.com
